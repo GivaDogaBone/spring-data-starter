@@ -67,7 +67,7 @@ Let's do some initial setup by creating a serverless(!) database.
 
 ### Running on Gitpod
 1. Click the 'Open in Gitpod' link:
-[![Open in IDE](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/datastax-examples/spring-data-starter)
+[![Open in IDE](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/GivaDogaBone/spring-data-starter)
 
 2. Once your Gitpod workspace has loaded, you'll be asked to paste your service account credentials in the Gitpod terminal at the bottom of the screen:
 ![image](https://user-images.githubusercontent.com/3254549/90944321-e900c300-e3d2-11ea-9624-dae5f81b6a0a.png)
